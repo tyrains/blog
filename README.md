@@ -1,6 +1,6 @@
-# 张海如的博客 :link: https://tyrains.github.io/blog 
-### :page_facing_up: [1](https://tyrains.github.io/blog/tag.html) 
+# 张海如的博客 :link: https://git.hairu.eu.org/ 
+### :page_facing_up: [1](https://git.hairu.eu.org//tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 56 
-### :alarm_clock: 2024-11-30 08:51:18 
+### :alarm_clock: 2024-11-30 09:15:23 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
